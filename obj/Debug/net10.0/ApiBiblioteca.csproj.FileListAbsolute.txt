@@ -26,3 +26,4 @@ C:\Trabalhos  Faculdade\API Desen. Backend\API Biblioteca\ApiBiblioteca\obj\Debu
 C:\Trabalhos  Faculdade\API Desen. Backend\API Biblioteca\ApiBiblioteca\obj\Debug\net10.0\ApiBiblioteca.pdb
 C:\Trabalhos  Faculdade\API Desen. Backend\API Biblioteca\ApiBiblioteca\obj\Debug\net10.0\ApiBiblioteca.genruntimeconfig.cache
 C:\Trabalhos  Faculdade\API Desen. Backend\API Biblioteca\ApiBiblioteca\obj\Debug\net10.0\ref\ApiBiblioteca.dll
+C:\Trabalhos  Faculdade\API Desen. Backend\API Biblioteca\ApiBiblioteca\obj\Debug\net10.0\ApiBiblioteca.sourcelink.json
